@@ -12,6 +12,7 @@ public class TypeConversion {
         System.out.println("Mortgage Broker: What is your monthly salary in dollars?");
         System.out.println("My monthly salary is: " + (int)salary);
 
+        System.out.println(2/5);
 
     }
 
